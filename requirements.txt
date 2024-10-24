@@ -1,6 +1,6 @@
 et-xmlfile==1.0.1
 jdcal==1.4.1
-mysql-connector-python==8.0.18
+mysql-connector-python==9.1.0
 openpyxl==3.0.0
 protobuf==3.10.0
 PyQt5==5.13.1
